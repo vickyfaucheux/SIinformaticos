@@ -1,3 +1,7 @@
 sistemas informáticos
+<<<<<<< HEAD
 
 ejemple rama-2
+=======
+ejemplo rama-3
+>>>>>>> rama-3
